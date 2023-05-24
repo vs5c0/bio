@@ -78,7 +78,7 @@ section{
     position: relative;
     height: 120vh;
     width: 100%;
-    background-image:  url('C:\\Users\\wwwsa\\OneDrive\\Desktop\\images\\bbb1.jpg');
+    background-image:  url('images\bbb1.jpg');
     background-size:cover;
     background-position: center;
     display:flex;
