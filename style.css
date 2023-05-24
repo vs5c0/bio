@@ -78,7 +78,7 @@ section{
     position: relative;
     height: 120vh;
     width: 100%;
-    
+    background-img:url("https://github.com/vs5c0/bio/tree/master/images/bbb1.jpg")
     background-size:cover;
     background-position: center;
     display:flex;
